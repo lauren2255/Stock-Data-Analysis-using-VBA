@@ -1,6 +1,6 @@
 # VBA-challenge
 
-Stock data for 2018-2020 was cleaned using VBA according to the specifications below:
+Stock data for 2018-2020 was analyzed using VBA according to the specifications below:
 
 # Instructions
 Create a script that loops through all the stocks for one year and outputs the following information:
