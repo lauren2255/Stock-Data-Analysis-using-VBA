@@ -1,4 +1,4 @@
-# VBA-challenge
+# Stock Data Analysis using VBA
 
 Stock data for 2018-2020 was analyzed using VBA according to the specifications below:
 
